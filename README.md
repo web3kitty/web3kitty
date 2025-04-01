@@ -8,3 +8,4 @@
 - 💞️ I’m looking to collaborate on @web3privacy
 - 📫 Good luck trying to reach me
 - 😄 Pronouns: cat/kitty
+- 😺 Seeking purrrfection
