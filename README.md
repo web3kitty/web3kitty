@@ -1,6 +1,7 @@
 ![Header](./github-header.png)
 
-<img align="right" alt="some-gif-or-image-you-can-not-see" width="400" src="./github-side-image.png">
+<img align="right" alt="some-gif-or-image-you-can-not-see" width="300" src="./github-side-image.png">
+
 - 👋 Hi, I’m @web3kitty
 - 👀 I’m interested in catnip
 - 🌱 I’m currently learning how to tap on keyboard
