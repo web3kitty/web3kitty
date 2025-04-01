@@ -1,6 +1,6 @@
 ![header](./github-header.png)
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=web3kitty&show_icons=true&theme=dark"/></p>
+<img align="right" alt="some-gif-or-image-you-can-not-see" width="400" src="https://github-readme-stats.vercel.app/api?username=web3kitty&show_icons=true&theme=dark">
   
 - 👋 Hi, I’m @web3kitty
 - 👀 I’m interested in catnip
